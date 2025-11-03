@@ -1,0 +1,5 @@
+def my_function(n1,n2):
+    print("sub two numbers =",(n1-n2))
+n1=10
+n2=2
+my_function(n1,n2)
