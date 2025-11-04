@@ -1,0 +1,7 @@
+def my_function(age):
+    if age>=18:
+        print("person eligible to vote")
+    else:
+        print("person not eligible to vote he needs",18-age,"more years to vote")
+age=int(input("enter the age of person:"))
+my_function(age)
