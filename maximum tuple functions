@@ -1,0 +1,5 @@
+def my_function(s):
+    m=max(s)
+    print("maximum tuple =",m)
+s=(1,2,3,4,5)
+my_function(s)
