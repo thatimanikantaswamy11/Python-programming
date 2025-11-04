@@ -1,0 +1,9 @@
+def my_function(n1,n2):
+    if n2==0:
+        print("error! floor division not possible")
+    else:
+        floor=n1//n2
+        print("floor division two numbers =",floor)
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
