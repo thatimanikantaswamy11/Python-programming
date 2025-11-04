@@ -1,0 +1,6 @@
+def my_function(s1,s2):
+    concatenate=s1+s2
+    print("concatenate list =",concatenate)
+s1=[1,2,3]
+s2=[4,5,6]
+my_function(s1,s2)
