@@ -1,0 +1,6 @@
+def my_function(base,exponent):
+    power=pow(base,exponent)
+    print("power number =",power)
+base=int(input("enter the base value:"))
+exponent=int(input("enter the exponent value:"))
+my_function(base,exponent)
