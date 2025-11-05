@@ -1,0 +1,6 @@
+def my_function(s1,s2):
+    concatenate=s1+s2
+    print("concatenation string =",concatenate)
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+my_function(s1,s2)
