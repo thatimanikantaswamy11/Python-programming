@@ -1,0 +1,5 @@
+def my_function(s):
+    length=len(s)
+    print("length string =",length)
+s=input("enter the string:")
+my_function(s)
