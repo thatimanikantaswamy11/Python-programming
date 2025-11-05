@@ -1,0 +1,5 @@
+def my_function(s):
+    r=s[::-1]
+    print("reversed string =",r)
+s=input("enter the string:")
+my_function(s)
